@@ -212,6 +212,9 @@ a {
   inset: 0% 0% auto auto;
 }
 
+#instructions {
+  font-family: "Hershey Noailles Cursive", Arial, sans-serif;
+}
 .paragraph-4 {
   width: 33%;
   color: var(--white);
